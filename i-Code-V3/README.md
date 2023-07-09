@@ -1,3 +1,10 @@
+# How to run
+
+You need a strong GPU with at least 24GB memory (3090).
+
+Then run [CoDi](https://github.com/simsim314/i-Code/blob/main/i-Code-V3/CoDi.ipynb) from this repository
+
+
 <h1 align="center">CoDi: Any-to-Any Generation via Composable Diffusion</h1>
 <div align="center">
   <span class="author-block">
